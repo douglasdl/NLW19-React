@@ -26,12 +26,19 @@ npm install tailwindcss @tailwindcss/postcss postcss
 Install the dependencies:
 ```sh
 npm i lucide-react
+npm i @biomejs/biome -D
+```
+
+Create the Biome Configs:
+```sh
+npx @biomejs/biome init
 ```
 
 ## VS Code Extensions:
 
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+- [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
 
 ## Icons
 
